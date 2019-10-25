@@ -8,7 +8,7 @@ We've toiled through projects together, venturing down strange paths towards new
 
 For this project, you're going to select a dataset **of your choosing** and create a model to solve a problem **that you define**. 
 
-The goal is to use everything you've learned about Data Science and Machine Learning thus far to source a dataset, pre-process and explore it, and then build and interpret a model that answers your chosen question. You should showcase your knowledge of the whole data science process, from start to finish, preferably using a defined data science lifecycle process like OSEMN.
+The goal is to use everything you've learned about Data Science and Machine Learning thus far to source a dataset, pre-process and explore it, and then build and interpret a model that answers your chosen question. You should showcase your knowledge of the whole data science process, from start to finish, preferably using a defined data science lifecycle process like OSEMN or CRISP-DM.
 
 ### Selecting a Data Set/Defining Your Problem
 

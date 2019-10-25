@@ -30,7 +30,9 @@ In addition to the above, there are two ways that you can think about getting st
 
 - **Data-First**: Take a look around at cool data sets available online. If you find a data set that's particularly interesting for you, then it's totally okay to build your problem around that data set. 
 
-We highly recommend you use a Kaggle competition or a Kaggle dataset, because of the community and because there are often pre-defined questions for you to answer (plus, contributing to Kaggle is a great way to network/showcase your skills!). In addition, some other places to look for data include:
+We highly recommend you use a [Kaggle competition](https://kaggle.com/competitions) or a [Kaggle dataset](https://www.kaggle.com/datasets), because of the community and because there are often pre-defined questions for you to answer (plus, contributing to Kaggle is a great way to network/showcase your skills!). 
+
+In addition, some other places to look for data include:
 
 * [UCI Machine Learning Datasets Repository](https://archive.ics.uci.edu/ml/datasets.html)
 * [Kaggle Datasets](https://www.kaggle.com/datasets)

@@ -8,11 +8,11 @@ We've toiled through projects together, venturing down strange paths towards new
 
 For this project, you're going to select a dataset **of your choosing** and create a model to solve a problem **that you define**. 
 
-![Gif from Giphy, sourced from Parks and Rec: "I have a permit" "This just says 'I can do what I want'"](https://media.giphy.com/media/3oEduEHWLW6UiPA1Ww/giphy.gif)
-
 The goal is to use everything you've learned about Data Science and Machine Learning thus far to source a dataset, pre-process and explore it, and then build and interpret a model that answers your chosen question. You should showcase your knowledge of the whole data science process, from start to finish, preferably using a defined data science lifecycle process like OSEMN.
 
 ### Selecting a Data Set/Defining Your Problem
+
+![Gif from Giphy, sourced from Parks and Rec: "I have a permit" "This just says 'I can do what I want'"](https://media.giphy.com/media/3oEduEHWLW6UiPA1Ww/giphy.gif)
 
 We encourage you to either:
 

@@ -1,4 +1,4 @@
-# Module 4 Project - Houston Data Science - 082619
+# Module 4/5 Project - Houston Data Science - 082619
 
 We've toiled through projects together, venturing down strange paths towards new models with all their quirks, dodging smoothing techniques, poisoned data and all the joys of time series - but now, it's time to choose your own adventure.
 
